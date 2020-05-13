@@ -1,1 +1,10 @@
-{"last_force_required_version":"1.0","required_version":"5.0","type":"force","update_url":"https://play.google.com/store/apps/details?id=com.matche.koora_mobarayat_alyawm_19"}
+{
+  "latestVersion": "1.2.2",
+  "latestVersionCode": 10,
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- First evolution JAMAA",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+}
