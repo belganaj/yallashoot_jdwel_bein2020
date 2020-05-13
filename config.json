@@ -1,0 +1,169 @@
+[
+  {
+    "title":"الرئيسية",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "http://yallalive.men"
+        ]
+      }
+      ,
+      {
+        "title":"مباريات اليوم",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/livetoday.html"
+        ]
+      },
+      {
+        "title":"مباريات الغد",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/tomorrow.html"
+        ]
+      },
+      {
+        "title":"مباريات الامس",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/yesterday.html"
+        ]
+      }
+    ,
+        {
+        "title":"كاس امم افريقيا",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/can2019.json"
+        ]
+      }
+      ,
+      
+      {
+        "title":"ترتيب الفرق",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/tartib.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"مباريات اليوم",
+    "drawable":"ic_anime",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/live.html"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"مباريات الغد",
+    "drawable":"ic_hot",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/tomorrow.html"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"مباريات الامس",
+    "drawable":"ic_action",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/yesterday.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"ترتيب الفرق",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/tartib.json"
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title":"تقييم التطبيق",
+    "drawable":"ic_rate",
+    "submenu":"التواصل معنا والتقييم",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"تقييم التطبيق",
+        "provider":"custom",
+        "arguments":[
+          "https://play.google.com/store/apps/details?id=com.tab3kora.yallagoal_koora",
+          "url"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"سياسة الخصوصية",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/privacy_policy.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"مراسلة ",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "mailto:filmarma@yallalive.men",
+          "url"
+        ]
+      }
+    ]
+  }
+
+]
