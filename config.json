@@ -13,6 +13,13 @@
         ]
       }
       ,
+      {
+        "title":"مباريات اليوم",
+        "provider":"webview",
+        "arguments":[
+          "http://217.69.12.121/cup/livetoday.html"
+        ]
+      },
      
       {
         "title":"مباريات الغد",
@@ -29,15 +36,7 @@
         ]
       }
     ,
-        {
-        "title":"كاس امم افريقيا",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/can2019.json"
-        ]
-      }
-      ,
-      
+        
       {
         "title":"ترتيب الفرق",
         "provider":"overview",
@@ -58,7 +57,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/live.html"
+          "http://217.69.12.121/cup/livetoday.html"
         ]
       }
     ]
