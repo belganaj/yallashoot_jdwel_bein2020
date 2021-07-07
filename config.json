@@ -17,7 +17,7 @@
         "title":"مباريات اليوم",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/livetoday.html"
+          "https://yallalive.men/livetoday/"
         ]
       },
      
@@ -57,7 +57,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/livetoday.html"
+          "https://yallalive.men/livetoday/"
         ]
       }
     ]
