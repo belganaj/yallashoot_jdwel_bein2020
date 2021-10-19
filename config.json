@@ -13,26 +13,28 @@
         ]
       }
       ,
+           
       {
         "title":"مباريات اليوم",
         "provider":"webview",
         "arguments":[
-          "https://yallalive.men/livetoday/"
+          "https://yallalive.men/livetoday"
         ]
-      },
-     
+      }
+      ,
+          
       {
         "title":"مباريات الغد",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/tomorrow.html"
+          "http://yallalive.men/tomorrow"
         ]
       },
       {
         "title":"مباريات الامس",
         "provider":"webview",
         "arguments":[
-          "http://yallalive.men/live/yesterday.html"
+          "http://yallalive.men/yesterday"
         ]
       }
     ,
@@ -57,7 +59,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "https://yallalive.men/livetoday/"
+          "http://yallalive.men/livetoday"
         ]
       }
     ]
@@ -152,7 +154,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "mailto:filmarma@yallalive.men",
+          "mailto:admin@yallalive.men",
           "url"
         ]
       }
