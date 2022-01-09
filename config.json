@@ -40,6 +40,14 @@
     ,
         
       {
+        "title":"كأس افريقيا",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/can22.json"
+        ]
+      }
+    ,
+      {
         "title":"ترتيب الفرق",
         "provider":"overview",
         "arguments":[
