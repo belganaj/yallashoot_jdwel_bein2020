@@ -119,6 +119,21 @@
       }
     ]
   },
+ {
+    "title":"كأس افريقيا",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/can22.json"
+        ]
+      }
+    ]
+  },
 
 
   {
