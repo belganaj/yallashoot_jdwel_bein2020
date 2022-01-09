@@ -14,7 +14,14 @@
       }
       ,
            
-    
+      {
+        "title":"مباريات اليوم",
+        "provider":"webview",
+        "arguments":[
+          "https://yallalive.men/livetoday"
+        ]
+      }
+      ,
           
       {
         "title":"مباريات الغد",
