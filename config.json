@@ -14,13 +14,32 @@
       }
       ,
 
-       {
-        "title":"جدول المباريات",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/matcheslist.json"
-        ]
-      }
+ {
+    "title":"مباريات اليوم",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/livetoday"
+    ]
+  },
+
+	   {
+    "title":"مباريات الغد",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://yallalive.men/tomorrow"
+    ]
+  },
+	
+  {
+    "title":"مباريات الامس",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://yallalive.men/yesterday"
+    ]
+  } 
     ,
       {
         "title":"كأس افريقيا",
