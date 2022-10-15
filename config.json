@@ -41,21 +41,7 @@
     ]
   },
 
-  {
-    "title":"مباريات اليوم",
-    "drawable":"ic_anime",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"webview",
-        "arguments":[
-          "http://yallalive.men/livetoday"
-        ]
-      }
-    ]
-  },
+ 
 
   {
     "title":"مباريات الغد",
