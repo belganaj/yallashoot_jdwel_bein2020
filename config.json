@@ -21,14 +21,7 @@
         ]
       }
       
-    ,
-      {
-        "title":"البطولات",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/botolat.json"
-        ]
-      }
+    
 
     ,
       {
