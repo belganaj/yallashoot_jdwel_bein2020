@@ -25,6 +25,10 @@
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
       
+      "BannerFb": "",
+      "InterstitialFb": "184375336153341_237627014161506",
+      "NativeFb": "",    
+	    
       "ImageBanner": false,
       "ImageBannerImg": "https://iili.io/s3IJHb.gif",
       "ImageBannerURL": "https://www.google.ru"
