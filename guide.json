@@ -4,8 +4,9 @@
       
       
       "baseURL": "http://korastar4k.live/",
-	  "updateURL": "https://raw.githubusercontent.com/belganaj/jbdevapp.github.io/master/update/yallashoot_jdwel_bein2020/update.json22",
- 
+      "updateURL": "https://raw.githubusercontent.com/belganaj/jbdevapp.github.io/master/update/yallashoot_jdwel_bein2020/update.json22",
+      "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
+	    
       "BannerAd": "admob",
       "InterstitialAd": "",
       "NativeAdna": "",
