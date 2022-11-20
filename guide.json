@@ -7,8 +7,8 @@
       "updateURL": "https://raw.githubusercontent.com/belganaj/jbdevapp.github.io/master/update/yallashoot_jdwel_bein2020/update.json22",
       "appsFlyer": "JAXadWtvfFPgLbgu6P47rH",
 	    
-      "BannerAd": "facebook",
-      "InterstitialAd": "facebook",
+      "BannerAd": "ironsource",
+      "InterstitialAd": "ironsource",
       "NativeAdna": "",
       
       "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -19,7 +19,7 @@
       "maxInterstitial": "3dbc7c84aff7d8e2",
       "maxNative": "2fc441348a27d8e1",
       
-      "ironsource_appKey": "113ec76dd",
+      "ironsource_appKey": "12dc21605",
       
       "unity_game_id": "4368035",
       "unity_test": true,
